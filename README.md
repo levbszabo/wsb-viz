@@ -4,10 +4,11 @@ This repository contains the frontend of a data analytics pipeline. To gain insi
 reddit forum r/WallStreetBets all forum comments were collected and analyzed. 
 
 Tools Used:
-Backend: Python, Reddit Streaming API, Pub/Sub, DataFlow, BigQuery
-Frontend: React
-Visualization: Tableau
-Cloud: Google Cloud Platform
+
+### Backend: Python, Reddit Streaming API, Pub/Sub, DataFlow, BigQuery
+### Frontend: React
+### Visualization: Tableau
+### Cloud: Google Cloud Platform
 
 The overall analytics process was as follows: 
 
