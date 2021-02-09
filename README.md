@@ -6,8 +6,6 @@ activity over the last week.
 
 www.wsb-viz.com
 
-Tools Used:
-
 ### Backend: Python, Reddit Streaming API, Pub/Sub, DataFlow, BigQuery
 ### Frontend: React
 ### Visualization: Tableau
