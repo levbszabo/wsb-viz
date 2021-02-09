@@ -3,6 +3,8 @@
 This repository contains the frontend of a data analytics pipeline. To gain insight on the evolving nature of the popular
 reddit forum r/WallStreetBets all forum comments were collected and analyzed. 
 
+www.wsb-viz.com
+
 Tools Used:
 
 ### Backend: Python, Reddit Streaming API, Pub/Sub, DataFlow, BigQuery
